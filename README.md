@@ -25,7 +25,7 @@ It is strongly recommended to compile/build all the dependencies from source cod
 4. Download [RInside](http://dirk.eddelbuettel.com/code/rinside.html) and follow the [Embedding Qt Example](http://dirk.eddelbuettel.com/blog/2011/03/25#rinside_and_qt) to setup your Qt.
 5. Buid this project using Qt Creater
 
-#### Mac
+##### Mac
 
 1. Download [R 2.15.1](http://cran.us.r-project.org/) source code and compile it using your system compiler
 2. Download [Qt 4.8.1](https://download.qt.io/archive/qt/4.8/4.8.1/) to your system
